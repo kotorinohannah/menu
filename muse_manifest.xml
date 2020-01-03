@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578086009358">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578086531650">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="hannah.css" crc="210471111" ref="hannah"/>
@@ -7,8 +7,8 @@
     <file name="index.css" crc="4071729766" ref="index"/>
     <file name="menu.css" crc="4073752805" ref="menu"/>
     <file name="kitori.css" crc="3973468875" ref="kitori"/>
-    <file name="sin-t_tulo-7.css" crc="15304389" ref="sin-título-7"/>
-    <file name="nomq_sin-t_tulo-7.css" crc="399964757" ref="sin-título-7"/>
+    <file name="sin-t_tulo-7.css" crc="357223556" ref="sin-título-7"/>
+    <file name="nomq_sin-t_tulo-7.css" crc="4005125325" ref="sin-título-7"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:kitori:hannah:historias:artes:sin-título-7"/>
@@ -61,13 +61,22 @@
     <file name="byebye.jpg" crc="4044766198" seo="true" ref="sin-título-7">
       <caption webpage="sin-título-7" alt=""/>
     </file>
-    <file name="u350_states2.png" crc="4109563944" ref="sin-título-7"/>
-    <file name="u350_states-r2.png" crc="436982248" ref="sin-título-7"/>
-    <file name="u350_states-m2.png" crc="421471512" ref="sin-título-7"/>
-    <file name="bye bye204x153.jpg" crc="438891341" seo="true" ref="sin-título-7">
+    <file name="u350_states2.png" crc="3759351397" ref="sin-título-7"/>
+    <file name="u350_states-r2.png" crc="136944209" ref="sin-título-7"/>
+    <file name="u350_states-m2.png" crc="114283410" ref="sin-título-7"/>
+    <file name="byebye179x134.jpg" crc="4187686371" seo="true" ref="sin-título-7">
       <caption webpage="sin-título-7" alt=""/>
     </file>
-    <file name="byebye179x134.jpg" crc="4187686371" seo="true" ref="sin-título-7">
+    <file name="bye bye275x206.jpg" crc="3890630669" seo="true" ref="sin-título-7">
+      <caption webpage="sin-título-7" alt=""/>
+    </file>
+    <file name="byebye259x194.jpg" crc="12259916" seo="true" ref="sin-título-7">
+      <caption webpage="sin-título-7" alt=""/>
+    </file>
+    <file name="u350_states3.png" crc="446720144" ref="sin-título-7"/>
+    <file name="u350_states-r3.png" crc="315315105" ref="sin-título-7"/>
+    <file name="u350_states-m3.png" crc="488152178" ref="sin-título-7"/>
+    <file name="bye bye178x134.jpg" crc="3871085800" seo="true" ref="sin-título-7">
       <caption webpage="sin-título-7" alt=""/>
     </file>
   </folder>
@@ -77,5 +86,5 @@
   <file name="hannah.html" crc="147349519" seo="true" mt="1576272153821" redirect="true"/>
   <file name="historias.html" crc="216280762" seo="true" mt="1576265605042" redirect="true"/>
   <file name="artes.html" crc="233049528" seo="true" mt="1576272137117" redirect="true"/>
-  <file name="sin-título-7.html" crc="4081633457" seo="true" mt="1578085995424" redirect="true"/>
+  <file name="sin-título-7.html" crc="59508019" seo="true" mt="1578086508076" redirect="true"/>
 </manifest>
