@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578088426776">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578088932392">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="hannah.css" crc="210471111" ref="hannah"/>
@@ -7,8 +7,8 @@
     <file name="index.css" crc="4071729766" ref="index"/>
     <file name="menu.css" crc="4073752805" ref="menu"/>
     <file name="kitori.css" crc="3973468875" ref="kitori"/>
-    <file name="sin-t_tulo-7.css" crc="4173559128" ref="sin-título-7"/>
-    <file name="nomq_sin-t_tulo-7.css" crc="218467343" ref="sin-título-7"/>
+    <file name="sin-t_tulo-7.css" crc="4078048010" ref="sin-título-7"/>
+    <file name="nomq_sin-t_tulo-7.css" crc="496633501" ref="sin-título-7"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu:kitori:hannah:historias:artes:sin-título-7"/>
@@ -95,5 +95,5 @@
   <file name="hannah.html" crc="147349519" seo="true" mt="1576272153821" redirect="true"/>
   <file name="historias.html" crc="216280762" seo="true" mt="1576265605042" redirect="true"/>
   <file name="artes.html" crc="233049528" seo="true" mt="1576272137117" redirect="true"/>
-  <file name="sin-título-7.html" crc="122321175" seo="true" mt="1578088417332" redirect="true"/>
+  <file name="sin-título-7.html" crc="4001267632" seo="true" mt="1578088915871" redirect="true"/>
 </manifest>
