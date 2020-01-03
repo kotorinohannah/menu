@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578088932392">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://kotorinohannah.github.io/menu" resolutions="1x" timestamp="1578089176924">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="hannah.css" crc="210471111" ref="hannah"/>
